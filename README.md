@@ -1,6 +1,6 @@
 # Gridea-theme-One
 
-一款简洁专注于写作的Gridea博客主题，示例网站：<https://97io.cc>
+一款简洁专注于写作的Gridea博客主题，示例网站：<https://blog.inas.wiki>
 
 Fork 自 [kytrun](https://github.com/kytrun/gridea-theme-one) .
 
